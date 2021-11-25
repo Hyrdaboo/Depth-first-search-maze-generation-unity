@@ -7,7 +7,7 @@
 
 
 
-  ![menu](https://user-images.githubusercontent.com/67780454/143435660-8e7957fd-6d9c-4f2d-8962-277aefefb3d8.png)
+   ![menu](https://user-images.githubusercontent.com/67780454/143435660-8e7957fd-6d9c-4f2d-8962-277aefefb3d8.png)
 
 3. press play button and you are good to go
 

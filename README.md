@@ -3,7 +3,7 @@
 ## Instructions to make it work
 1. after you have cloned into repo open it in unity
 
-2. Go to prefabs folder in unity then drag **board** and "highlighter" into hierarchy 
+2. Go to prefabs folder in unity then drag **board** and **highlighter** into hierarchy 
 
 
 
